@@ -1,0 +1,33 @@
+{
+    "name": "TimeControls",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "c71bb994-4088-4197-bbdb-f54055ae138b",
+            "actions": [
+                {
+                    "name": "TouchPressHold",
+                    "type": "Button",
+                    "id": "b9f4def7-b73d-42e5-8ffc-bb89776aa8db",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6ea86dec-1884-41f8-a8ae-a9b1da743c35",
+                    "path": "<Mouse>/press",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchPressHold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
